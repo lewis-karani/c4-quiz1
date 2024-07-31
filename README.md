@@ -1,6 +1,6 @@
-# This training repository borrows material from the Coding Summer School 2024. The Coding Summer School (CSS) was jointly organised by the Centre for High Performance Computing (CHPC) of the CSIR and the National Institute for Theoretical Computational Science (NITheCS).
+This training repository borrows material from the Coding Summer School 2024. The Coding Summer School (CSS) was jointly organised by the Centre for High Performance Computing (CHPC) of the CSIR and the National Institute for Theoretical Computational Science (NITheCS).
 
-#The content covered:
+## The content covered:
 
 The training focuses on an introduction to the Python programming language through data science principles. This allows students new to Python an easier transition since we start with performing simple tasks using Excel spreadsheets to doing the same and more tasks in Python.
 
