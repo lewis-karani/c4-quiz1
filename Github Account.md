@@ -1,10 +1,10 @@
 # What is GitHub
 GitHub is a website and cloud-based service that helps people store and manage any type of file, specifically their code. It allows them to track and control changes that may happen and collaborate with others too. It is used mostly by software developers and engineers, and since your learning to code it is a useful tool to learn. We will only be using a few features of it to give an idea of its usage. If you already have GitHub account then you can ignore this setup and use your existing GitHub account for the course.
 
-Create a Github Account
+# Create a Github Account
 Follow the steps below:
 
-1. Go to the link: [GitHub: Let’s build from here](https://github.com/)
+## Go to the link: [GitHub: Let’s build from here](https://github.com/)
 
 - And click on the Sign Up button:
 - Fill in your email address:
