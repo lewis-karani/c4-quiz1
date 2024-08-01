@@ -8,7 +8,7 @@ There are many ways to run Python code. It can run on a basic terminal or in an 
 There are hundreds of ways to run Python code on various platforms and environments. From your PC to your web browser, to your Linux terminal. We will use one of the most well-known Python platforms, Anaconda. If you are familiar with Python and have it installed already, use what you are comfortable with.
 
 If you don't have Python installed and this is your first time with Python then follow the following steps:
-- To install Anaconda, go to this[link](https://www.anaconda.com/products/distribution) and click on the download button. By default, the option is for Windows, however you can install it on Linux and MacOS.
+- To install Anaconda, go to this [link](https://www.anaconda.com/products/distribution) and click on the download button. By default, the option is for Windows, however you can install it on Linux and MacOS.
 - Once it has finished installing, open and run the file. You should then see the setup, select Next:
   
 ![image](https://github.com/user-attachments/assets/ab17a4d0-5412-4c7a-942e-aab8767a0e16)
