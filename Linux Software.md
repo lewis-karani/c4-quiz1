@@ -46,5 +46,7 @@ This should appear:
 
 ![image](https://github.com/user-attachments/assets/d414170b-7909-4881-8435-b5ed32ce1b3f)
 
+Note, there are other online Linux terminal simulations you can use. Feel free to use them too.
+
 
 
