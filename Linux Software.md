@@ -48,5 +48,8 @@ This should appear:
 
 Note, there are other online Linux terminal simulations you can use. Feel free to use them too.
 
+- You don't need to install the bash terminal in Linux it comes pre-installed. Search for your Terminal in your start-up menu.
+- You don't need to install the bash terminal on Mac, a similar one called ZSH comes pre-installed. Click on your launchpad, then search for terminal
+
 
 
